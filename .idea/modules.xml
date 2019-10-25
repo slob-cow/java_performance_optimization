@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cglib_proxy2/cglib_proxy2.iml" filepath="$PROJECT_DIR$/cglib_proxy2/cglib_proxy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cglib_proxy3/cglib_proxy3.iml" filepath="$PROJECT_DIR$/cglib_proxy3/cglib_proxy3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator_five/decorator_five.iml" filepath="$PROJECT_DIR$/decorator_five/decorator_five.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator_four/decorator_four.iml" filepath="$PROJECT_DIR$/decorator_four/decorator_four.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator_one/decorator_one.iml" filepath="$PROJECT_DIR$/decorator_one/decorator_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator_seven/decorator_seven.iml" filepath="$PROJECT_DIR$/decorator_seven/decorator_seven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator_six/decorator_six.iml" filepath="$PROJECT_DIR$/decorator_six/decorator_six.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator_three/decorator_three.iml" filepath="$PROJECT_DIR$/decorator_three/decorator_three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator_two/decorator_two.iml" filepath="$PROJECT_DIR$/decorator_two/decorator_two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flyweight/flyweight.iml" filepath="$PROJECT_DIR$/flyweight/flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flyweight_one/flyweight_one.iml" filepath="$PROJECT_DIR$/flyweight_one/flyweight_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flyweight_three/flyweight_three.iml" filepath="$PROJECT_DIR$/flyweight_three/flyweight_three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flyweight_two/flyweight_two.iml" filepath="$PROJECT_DIR$/flyweight_two/flyweight_two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/future/future.iml" filepath="$PROJECT_DIR$/future/future.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guarded_suspension/guarded_suspension.iml" filepath="$PROJECT_DIR$/guarded_suspension/guarded_suspension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immutable/immutable.iml" filepath="$PROJECT_DIR$/immutable/immutable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_performance_optimization.iml" filepath="$PROJECT_DIR$/java_performance_optimization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk_proxy/jdk_proxy.iml" filepath="$PROJECT_DIR$/jdk_proxy/jdk_proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk_proxy2/jdk_proxy2.iml" filepath="$PROJECT_DIR$/jdk_proxy2/jdk_proxy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/master_worker/master_worker.iml" filepath="$PROJECT_DIR$/master_worker/master_worker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio/nio.iml" filepath="$PROJECT_DIR$/nio/nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy_pattern/proxy_pattern.iml" filepath="$PROJECT_DIR$/proxy_pattern/proxy_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reference_type/reference_type.iml" filepath="$PROJECT_DIR$/reference_type/reference_type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subject_obsever/subject_observer.iml" filepath="$PROJECT_DIR$/subject_obsever/subject_observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadpool/threadpool.iml" filepath="$PROJECT_DIR$/threadpool/threadpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
