@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/cglib_proxy2/cglib_proxy2.iml" filepath="$PROJECT_DIR$/cglib_proxy2/cglib_proxy2.iml" />
       <module fileurl="file://$PROJECT_DIR$/cglib_proxy3/cglib_proxy3.iml" filepath="$PROJECT_DIR$/cglib_proxy3/cglib_proxy3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrent_struct/concurrent_struct.iml" filepath="$PROJECT_DIR$/concurrent_struct/concurrent_struct.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator_five/decorator_five.iml" filepath="$PROJECT_DIR$/decorator_five/decorator_five.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator_four/decorator_four.iml" filepath="$PROJECT_DIR$/decorator_four/decorator_four.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator_one/decorator_one.iml" filepath="$PROJECT_DIR$/decorator_one/decorator_one.iml" />
@@ -27,8 +28,10 @@
       <module fileurl="file://$PROJECT_DIR$/proxy_pattern/proxy_pattern.iml" filepath="$PROJECT_DIR$/proxy_pattern/proxy_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/reference_type/reference_type.iml" filepath="$PROJECT_DIR$/reference_type/reference_type.iml" />
       <module fileurl="file://$PROJECT_DIR$/subject_obsever/subject_observer.iml" filepath="$PROJECT_DIR$/subject_obsever/subject_observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronized/synchronized.iml" filepath="$PROJECT_DIR$/synchronized/synchronized.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadpool/threadpool.iml" filepath="$PROJECT_DIR$/threadpool/threadpool.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volatile/volatile.iml" filepath="$PROJECT_DIR$/volatile/volatile.iml" />
     </modules>
   </component>
 </project>
